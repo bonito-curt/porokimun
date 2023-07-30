@@ -1,6 +1,8 @@
-# porokimun [/pɔːɹoʊkimun/]
- 1. derived from ainu ポロキムㇴ/porokimun, pronounced /poɾokimu̜n/), meaning dry mountain
- 2. a person liking polar bears coldness and everything nice
-# hi. so who am i?
-i'm doro, and this is my github page! i usually work on projects here, thats all.
-***i promise i will update this i just dont really feel like doing it***
+# poro011908 [EN]
+i'm haddock, and this is my github page! i usually work on projects here, thats all.
+## projects (current)
+openWT (private alpha) - Open source Windows-like webtop.
+# poro011908 [JP]
+ハドックだ。これは僕のGitHubページ！ここにプロジェクト働く。
+## プロジェクト「今」
+openWT「オープンWT」「プライベートアルファ」- オープンソースウィンドウズっぽいウェブトップ。
